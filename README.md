@@ -17,5 +17,5 @@ A simple **Python-based Expense Tracker** that helps users manage their daily ex
 ## ▶️ How to Run
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/chaitanyabajaj05/expense-tracker.git
    cd expense-tracker
